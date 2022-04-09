@@ -1,10 +1,7 @@
-# fly.moe
+# junlin03.xyz
 
-> Fly3949 的个人页
+> 刚哥 的个人页（forked from fly.moe）
 
-## 前言
-
-回复邮件授权太累了，索性直接开源吧。
 
 ## 授权协议
 
